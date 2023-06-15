@@ -4,4 +4,7 @@ public class MyTest {
 	String name="Sriram test";
 	int age=35;
 	String city="guntur";
+	String country="India";
+	int salary=50000;
+	
 }

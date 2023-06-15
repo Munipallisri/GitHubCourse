@@ -6,3 +6,4 @@ public class SearchPage {
 		System.out.println("Hi");
 	}
 }
+	
