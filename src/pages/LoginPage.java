@@ -6,6 +6,7 @@ public class LoginPage {
 		String ab="Admin";
 		String bc="Public";
 		System.out.println("login");
+		System.out.println("logout");
 
 	}
 
